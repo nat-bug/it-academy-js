@@ -1,0 +1,23 @@
+{
+  "name": "it-academy",
+  "version": "1.0.0",
+  "description": "IT-academy-js",
+  "main": "featuredFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nat-bug/it-academy-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nat-bug/it-academy-js/issues"
+  },
+  "homepage": "https://github.com/nat-bug/it-academy-js#readme",
+  "dependencies": {
+    "fs-extra": "^11.1.0"
+  },
+  "devDependencies": {}
+}
