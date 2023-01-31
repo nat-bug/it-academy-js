@@ -1,0 +1,15 @@
+let str = "Hi";
+let nameFieldChecked = true;
+console.log(str + nameFieldChecked);
+let n = 5;
+console.log(str + n);
+console.log(n + nameFieldChecked);
+console.log(str * nameFieldChecked);
+console.log(str * n);
+console.log(n * nameFieldChecked);
+console.log(str / nameFieldChecked);
+console.log(str / n);
+console.log(n / nameFieldChecked);
+console.log(Number('5') * Number('1')); 
+console.log(String('H') + String('i'));
+console.log(Boolean('true') / Boolean('true'));  
